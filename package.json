@@ -1,0 +1,12 @@
+{
+  "name": "backendnode",
+  "version": "0.1.0",
+  "description": "A chat like Telegram but better",
+  "main": "server.js",
+  "author": "Steve",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
